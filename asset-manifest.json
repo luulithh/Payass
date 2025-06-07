@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Payass/static/css/main.bcf2ea0a.css",
-    "main.js": "/Payass/static/js/main.a0f9c40a.js",
+    "main.js": "/Payass/static/js/main.f57ef096.js",
     "index.html": "/Payass/index.html",
     "main.bcf2ea0a.css.map": "/Payass/static/css/main.bcf2ea0a.css.map",
-    "main.a0f9c40a.js.map": "/Payass/static/js/main.a0f9c40a.js.map"
+    "main.f57ef096.js.map": "/Payass/static/js/main.f57ef096.js.map"
   },
   "entrypoints": [
     "static/css/main.bcf2ea0a.css",
-    "static/js/main.a0f9c40a.js"
+    "static/js/main.f57ef096.js"
   ]
 }
